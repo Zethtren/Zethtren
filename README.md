@@ -20,3 +20,5 @@ This year (and those coming) I feel confident enough in my coding to start contr
 I have a few private projects I hope to release (mostly around REST APIs).
 
 Feel free to connect!
+
+<a rel="me" href="https://mastodon.social/@zethtren">Mastodon</a>
